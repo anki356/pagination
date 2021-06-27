@@ -1,0 +1,12 @@
+.paginate {
+    display: inline-block;
+    padding: 2px;
+    margin: 2px;
+}
+
+.paginate a {
+    text-decoration: none;
+    color: blue;
+   float: left;
+   padding: 10px 15px;
+}
